@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianlopezm" alt="ianlopezm" /></a> </p>
 
-- 🔭 Actualmente de practicas en **DOIT Sistemas Multisensoriales SL**
+- 🔭 Actualmente buscando trabajo
 
-- Actualmente estiy aprendiendo **Laravel con php**
+- Actualmente estoy aprendiendo **Laravel con php**
 
 - 💬 Preguntame sobre **Android Studio y su monetización**
 
