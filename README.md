@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianlopezm" alt="ianlopezm" /></a> </p>
 
-- 🔭 Actualmente buscando trabajo
+- Trabajando en ViajesParaTi
 
 - Actualmente estoy aprendiendo **Laravel con php**
 
