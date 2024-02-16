@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ian López Molina</h1>
-<h3 align="center">un programador junior, ahora mismo me encuentro estudiando y me encantaría empezar a trabajar en el mundo de la informática</h3>
+<h3 align="center">programador, ahora mismo me encuentro estudiando y me encantaría empezar a trabajar en el mundo de la informática</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianlopezm" alt="ianlopezm" /></a> </p>
 
 - Trabajando en ViajesParaTi
 
-- Actualmente estoy aprendiendo **Laravel con php**
+- Actualmente estoy estudiando ingenieria informática
 
 - 💬 Preguntame sobre **Android Studio y su monetización**
 
